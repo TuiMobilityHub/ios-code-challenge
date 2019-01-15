@@ -7,8 +7,9 @@ When app start download and parse the JSON from: https://raw.githubusercontent.c
 
 When a departure and a destination are both selected calculate the cheapest route and show it in a label
 If user change any of the cities update the cost label
-BONUS: use a textfield with autocomplete to fill the name of departure and destination city
-BONUS: Show the selected route on a map
+
+**BONUS:** use a textfield with autocomplete to fill the name of departure and destination city
+**BONUS:** Show the selected route on a map
 
 
 - Don’t pay too much attention to design, use standard UI elements
