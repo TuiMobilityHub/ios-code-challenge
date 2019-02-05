@@ -2,7 +2,7 @@
 
 **Trip Planner**
 
-Write an app that help you find the cheapest route between two cities.
+Write an app that help you find the cheapest route between two cities, if the two cities are connected (directly or indirectly).
 When app start download and parse the JSON from: https://raw.githubusercontent.com/punty/TUI-test/master/connections.json
 
 When a departure and a destination are both selected calculate the cheapest route and show it in a label
