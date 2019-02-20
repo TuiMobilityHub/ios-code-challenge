@@ -13,7 +13,22 @@
           "long": 139.839478
         }
       },
-      "price": 600
+      "price": 220
+    },
+    {
+      "from": "Tokyo",
+      "to": "London",
+      "coordinates": {
+        "from": {
+          "lat": 35.652832,
+          "long": 139.839478
+        },
+        "to": {
+          "lat": 51.5285582,
+          "long": -0.241681
+        }
+      },
+      "price": 200
     },
     {
       "from": "London",
@@ -61,17 +76,17 @@
       }
     },
     {
-      "from": "London",
-      "to": "Cape Town",
+      "from": "Cape Town",
+      "to": "London",
       "price": 800,
       "coordinates": {
         "from": {
-          "lat": 51.5285582,
-          "long": -0.241681
-        },
-        "to": {
           "lat": -33.918861,
           "long": 18.4233
+        },
+        "to": {
+          "lat": 51.5285582,
+          "long": -0.241681
         }
       }
     },
@@ -100,8 +115,8 @@
           "long": -73.935242
         },
         "to": {
-          "lat": 123,
-          "long": 321
+          "lat": 34.052235,
+          "long": -118.243683
         }
       }
     },
