@@ -3,7 +3,7 @@
 **Trip Planner**
 
 Write an app that help you find the cheapest route between two cities, if the two cities are connected (directly or indirectly).<br>
-When app starts download and parse the JSON from: https://raw.githubusercontent.com/TuiMobilityHub/ios-code-challenge/master/connections.json<br>
+When app starts, make a request to: https://raw.githubusercontent.com/TuiMobilityHub/ios-code-challenge/master/connections.json and parse the JSON<br> 
 Every connection in the array of connections is directed (from -> to)<br>
 You should be able to search flights from and to every city.<br>
 When a departure and a destination are both selected calculate the cheapest route and show it in a label
